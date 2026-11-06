@@ -1,5 +1,7 @@
 # ADL Theory Explorer
 
+**Try the interactive application:** [https://adl-theory-app.onrender.com/](https://adl-theory-app.onrender.com/)
+
 ADL-Theory-App is an interactive educational web application for studying the
 theoretical properties of **autoregressive distributed lag (ADL/ARDL) models**.
 It was developed for **Applied Time Series Econometrics (ATSE)** at
