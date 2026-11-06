@@ -1,0 +1,11 @@
+name: adl_theory_app
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.13
+  - nicegui
+  - numpy
+  - pandas
+  - plotly
+  - pytest
